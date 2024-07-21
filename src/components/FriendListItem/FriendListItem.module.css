@@ -1,0 +1,30 @@
+.friendItem {
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.imageAvatar {
+    height: 80px;
+    width: 80px;
+}
+
+.friendName {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+.statsFriend {
+    color: red;
+}
+
+.isOnline {
+    
+    color: green;
+}
